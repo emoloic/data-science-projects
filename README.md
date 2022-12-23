@@ -1,0 +1,3 @@
+# Data Science Projects
+
+This repository contains many data science projects in different areas of Machine Learning such as Time Series, NLP, Data Analysis etc...
